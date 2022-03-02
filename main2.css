@@ -1,0 +1,253 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+}
+
+.All {
+    width: 100%;
+    height: 1080px;
+    opacity: 1;
+    background-color: rgba(0, 170, 139, 1);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.Box1 {
+    width: 855px;
+    height: 550px;
+    background: rgba(8, 126, 126, 0.51);
+    opacity: 1;
+    position: absolute;
+    top: 201px;
+    left: 856px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    overflow: hidden;
+}
+
+.Image1 {
+    width: 622px;
+    height: 476px;
+    background: url("Fano.png");
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 219px;
+    left: 177px;
+    overflow: hidden;
+}
+
+.Box2 {
+    width: 364px;
+    height: 102px;
+    opacity: 1;
+    position: absolute;
+    top: 99px;
+    left: 177px;
+    overflow: hidden;
+}
+
+.Box23 {
+    width: 100px;
+    height: 102px;
+    background: rgba(81, 188, 168, 1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+h1 {
+    color: beige;
+    font-size: 45px;
+    text-align: center;
+}
+
+.Data {
+    width: 857px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 219px;
+    left: 880px;
+    opacity: 1;
+    text-align: left;
+}
+
+.Data1 {
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 28px;
+}
+
+.IGGroup1 {
+    width: 240px;
+    height: 45px;
+    opacity: 1;
+    position: absolute;
+    top: 745px;
+    left: 213px;
+    overflow: hidden;
+    color: rgba(255, 255, 255, 1);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 48px;
+    text-align: left;
+}
+
+.IGGroup2 {
+    width: 240px;
+    height: 45px;
+    opacity: 1;
+    position: absolute;
+    top: 740px;
+    left: 210px;
+    overflow: hidden;
+    color: rgba(249, 0, 255, 0.7799999713897705);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 48px;
+    text-align: left;
+}
+
+.IGImage,
+a.IGImage1 {
+    opacity: 1;
+    position: relative;
+    top: 801px;
+    left: 245px;
+}
+
+.LIGroup1 {
+    width: 342px;
+    height: 59px;
+    opacity: 1;
+    position: absolute;
+    top: 746px;
+    left: 654px;
+    color: rgba(255, 255, 255, 1);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+}
+
+.LIGroup2 {
+    width: 342px;
+    height: 59px;
+    opacity: 1;
+    position: absolute;
+    top: 743px;
+    left: 650px;
+    color: rgba(0, 101, 255, 0.7900000214576721);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 48px;
+    text-align: left;
+}
+
+.LIImage,
+a.LIImage1 {
+    opacity: 1;
+    position: relative;
+    top: 679px;
+    left: 680px;
+}
+
+.FBGroup1 {
+    width: 314px;
+    height: 132px;
+    opacity: 1;
+    position: absolute;
+    top: 745px;
+    left: 1075px;
+    color: rgba(255, 255, 255, 1);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 48px;
+    text-align: left;
+}
+
+.FBGroup2 {
+    width: 314px;
+    height: 132px;
+    opacity: 1;
+    position: absolute;
+    top: 742px;
+    left: 1070px;
+    color: rgba(0, 25, 255, 1);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 48px;
+    text-align: left;
+}
+
+.FBImage,
+a.FBImage1 {
+    opacity: 1;
+    position: absolute;
+    top: 798px;
+    left: 1110px;
+}
+
+.v2_31 {
+    width: 275px;
+    height: 155px;
+    opacity: 1;
+    position: absolute;
+    top: 744px;
+    left: 1468px;
+}
+
+.TWGroup1 {
+    width: 275px;
+    height: 155px;
+    opacity: 1;
+    position: absolute;
+    top: 744px;
+    left: 1468px;
+    color: rgba(255, 255, 255, 1);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 48px;
+    text-align: left;
+}
+
+.TWGroup2 {
+    width: 275px;
+    height: 155px;
+    opacity: 1;
+    position: absolute;
+    top: 741px;
+    left: 1463px;
+    color: rgba(0, 147, 255, 1);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 48px;
+    text-align: left;
+}
+
+.TWImage,
+a.TWImage1 {
+    opacity: 1;
+    position: absolute;
+    top: 756px;
+    left: 1440px;
+}
+
+.HomeButton,
+a.HomeButton1 {
+    opacity: 1;
+    position: absolute;
+    top: 89px;
+    left: 1617px;
+}

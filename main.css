@@ -1,0 +1,31 @@
+* {
+    background-color: rgba(0, 170, 139, 1);
+}
+
+body {
+    font-size: 14px;
+}
+
+.WCM {
+    width: 1500px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    font-size: 288px;
+    opacity: 1;
+    text-align: center;
+}
+
+button {
+    width: 500px;
+    color: rgba(255, 0, 0, 0.7599999904632568);
+    position: absolute;
+    font-family: RODE Noto Sans CJK SC B;
+    font-weight: Bold;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+    top: 600px;
+    left: 800px;
+}
